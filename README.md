@@ -1,5 +1,6 @@
 # Background-Changer-Mobile-App
 
+
 As a practice project, I have developed a mobile app using React Native that allows users to change the background color of the app to any random color. This app is called "Random Color Background" and is a simple yet fun tool that users can use to change the look and feel of their device's screen.
 
 Upon opening the app, users are presented with a button labeled "Press Me". When this button is pressed, the app generates a random color code and sets it as the background color of the app. The color code is displayed in both hexadecimal and RGB format, so users can easily use the color code in other applications if desired.
